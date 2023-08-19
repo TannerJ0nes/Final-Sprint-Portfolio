@@ -12,7 +12,7 @@ function AboutMe() {
           developer with a love for crafting beautiful and user-friendly websites. I've honed my skills in HTML, CSS, JavaScript, Python and modern frontend libraries like React.
         </p>
         <p>
-          When I'm not coding, you can find me exploring the latest web development trends, experimenting with new technologies, or enjoying a cup of coffee while brainstorming creative solutions to design challenges.
+          When I'm not coding, you can find me exploring the latest web development trends, experimenting with new technologies, or enjoying a cup of Iced coffee while brainstorming creative solutions to design challenges.
         </p>
       </div>
       <div className="profile-picture">

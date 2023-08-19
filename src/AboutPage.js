@@ -6,14 +6,14 @@ function AboutPage() {
     <section className="about-page">
       <h2>About Me</h2>
       <p>
-        Greetings! I'm Tanner Jones, a passionate explorer in the world of software development.
+        Greetings! I'm Tanner Jones, a passionate explorer in the world of software development,
         With a determination to learn and a thirst for innovation, I'm carving my path in this dynamic field.
       </p>
       <h3>Navigating the Journey</h3>
       <p>
-        My journey started with a fascination for technology from a young age, igniting my desire to shape the digital landscape.
+        My journey started with a fascination for technology from a young age, igniting my desire to explore the digital landscape.
         As the world of possibilities unfolded before me, I stood at a crossroads, choosing the path of software development.
-        Currently immersed in a rigorous Software Development program at Keyin College, I'm fueling my passion and embracing every coding challenge that comes my way.
+        Currently I am immersed in a rigorous Software Development program at Keyin College, I'm fueling my passion and embracing every coding challenge that comes my way.
       </p>
       <h3>Projects that Speak Volumes</h3>
       <p>
@@ -25,8 +25,8 @@ function AboutPage() {
       <h3>Unraveling Challenges, Crafting Solutions</h3>
       <p>
         In the world of coding, challenges are inevitable companions.
-        When hurdles arise, I dive into the unknown, seeking solutions beyond the conventional.
-        Armed with a relentless spirit and a penchant for thinking outside the box, I break down complex problems into manageable steps.
+        When hurdles arise, I dive into the unknown, seeking solutions beyond the conventional if needed.
+        Armed with a relentless spirit and a penchant for thinking outside the box, I break down complex problems into manageable steps and tackle them one by one.
         Through research, experimentation, and tenacity, I navigate uncharted territories, one coding conquest at a time.
       </p>
       <h3>A Born Leader, A Team Player</h3>
