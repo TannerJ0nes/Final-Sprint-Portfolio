@@ -4,6 +4,7 @@ import python1 from './Python1.jpg';
 import python2 from './Python2.jpg';
 import HTML1 from './HTML1.jpg';
 import HTML2 from './HTML2.png';
+import Pgdmin from './Pgadmin.png'
 
 function Works() {
   return (
@@ -102,7 +103,70 @@ function Works() {
           </p>
           <a href="https://github.com/TannerJ0nes/QAP-3-Term-2" target="_blank" rel="noopener noreferrer">GitHub Repository</a>
         </div>
-        
+        <div className="project">
+          <img src={HTML2} alt="Project 2" />
+          <h3>Project 11: Sprint 4</h3>
+          <p>
+           This Was my 11th Project at Keyin Collage, This was a Team Based Sprint which goal was to make a semi working Shopping experience for the user with the theme of action figures and things like them!
+          </p>
+          <a href="https://github.com/TannerJ0nes/Final-Sprint-Term-2" target="_blank" rel="noopener noreferrer">GitHub Repository</a>
+        </div>
+        <div className="project">
+          <img src={HTML2} alt="Project 2" />
+          <h3>Project 12: Sprint 4 Part:2 </h3>
+          <p>
+           This Was my 12th Project at Keyin Collage, This is the Github link to this very Website! If you are wondering how I went about making this website you can take a look At it Download it and Take a look At the file!
+          </p>
+          <a href="https://github.com/TannerJ0nes/Final-Sprint-Portfolio" target="_blank" rel="noopener noreferrer">GitHub Repository</a>
+        </div>
+        <div className="project">
+          <img src={Pgdmin} alt="Project 2" />
+          <h3>Project 13: QAP 10 </h3>
+          <p>
+           This was my 13th project at Keyin Collage in my third Term! It's an assortment of SQL statements that I was tasked to get running in a database Using Pgadmin!
+          </p>
+          <a href="https://github.com/TannerJ0nes/QAP1-Term3-Database" target="_blank" rel="noopener noreferrer">GitHub Repository</a>
+        </div>
+        <div className="project">
+          <img src={HTML2} alt="Project 2" />
+          <h3>Project 14: QAP 11 </h3>
+          <p>
+           This was my 14th Project at keyin Collage, it contains so of my first uses of Node.js!
+          </p>
+          <a href="https://github.com/TannerJ0nes/node-assessment-project/tree/main/Task2" target="_blank" rel="noopener noreferrer">GitHub Repository</a>
+        </div>
+        <div className="project">
+          <img src={HTML1} alt="Project 2" />
+          <h3>Project 14: QAP 11 </h3>
+          <p>
+           This was my 14th Project at keyin Collage, it contains so of my first uses of Node.js!
+          </p>
+          <a href="https://github.com/TannerJ0nes/node-assessment-project" target="_blank" rel="noopener noreferrer">GitHub Repository</a>
+        </div>
+        <div className="project">
+          <img src={HTML2} alt="Project 2" />
+          <h3>Project 15: QAP 12 </h3>
+          <p>
+           This was my 15th project at Keyin Collage! It was my Second time Using JS for this term!
+          </p>
+          <a href="https://github.com/TannerJ0nes/QAP2JS-TannerJones" target="_blank" rel="noopener noreferrer">GitHub Repository</a>
+        </div>
+        <div className="project">
+          <img src={Pgdmin} alt="Project 2" />
+          <h3>Project 16: QAP 13 </h3>
+          <p>
+           This was my 16th Project at Keyin Collage! It's my attempt at making at making a webpage that Talked to a database and could perform various different tasks to the database
+          </p>
+          <a href="https://github.com/TannerJ0nes/QAP3_TannerJonesDB/tree/main" target="_blank" rel="noopener noreferrer">GitHub Repository</a>
+        </div>
+        <div className="project">
+          <img src={Pgdmin} alt="Project 2" />
+          <h3>Project 17: Sprint 5 </h3>
+          <p>
+           This was my 17th project at Keyin Collage. It was a team effort! It's a website that can search multiple databases at one time and then display their information to it, it also has features for loggin searches as well as loggin in.
+          </p>
+          <a href="https://github.com/joshwhite2/S3FinalSprint/tree/JW2" target="_blank" rel="noopener noreferrer">GitHub Repository</a>
+        </div>
         {/* Repeat the project blocks with images */}
         
       </div>
